@@ -55,3 +55,5 @@ $ echo "help" | ./console.py
 ```
 python3 -m unittest discover tests
 ```
+
+Author: Dorcase Lesly Nana Tounda
